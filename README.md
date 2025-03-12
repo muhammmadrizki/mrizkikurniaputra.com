@@ -1,27 +1,27 @@
-# Welcome to My Personal Website Code
+# mrizkikurniaputra.com
 
-## 1. Project Overview
+## Project Overview
 
-Personal website ini dibuat dengan figma sebagai design tools dan HTML CSS untuk tampilannya.
+This personal website was created using Figma as the design tool and HTML CSS for the interface.
 
-### 2. Tools & Teknologi
+### Tools & Technology
 
-- Design : Figma
-- Development : HTML & CSS
-- Version Control : Git & Github
-- Deployment : Github, domain website sendiri dan vercel
+- Design: Figma
+- Development: HTML & CSS
+- Version Control: Git & Github
+- Deployment: Github, personal domain and Vercel
 
-## 3. Link Figma
+## Figma
 
-link figma <https://www.figma.com/design/S6wkej6BrqVL3hEHIsDwXW/muhammadrizkikurniaputra.com?node-id=21-2&t=IzKdfGEjdrvT6kFe-1>
+Figma link <https://www.figma.com/design/S6wkej6BrqVL3hEHIsDwXW/muhammadrizkikurniaputra.com?node-id=21-2&t=IzKdfGEjdrvT6kFe-1>
 
-## 4. Features
+## Features
 
-- Home : Tampilan utama
-- About : Informasi singkat
-- Contact : Bagaimana cara berhubung dengan saya
+- Home: Main display
+- About: Brief information
+- Contact: How to connect with me
 
-## 5. Project structure
+## Project structure
 
 - assets
   - images
@@ -31,9 +31,10 @@ link figma <https://www.figma.com/design/S6wkej6BrqVL3hEHIsDwXW/muhammadrizkikur
 - style.css
 - README.md
 
-## 6. How to Run Project
+## How to Run Project
 
-## 7. Saran perbaikan
+Use Live Server exstension in Visual Studio Code to run the project..
 
-- Ada/ buat darkmode
-- Integrasi WA/ Social media supaya bisa terhubung
+## Improvement Suggestions
+
+- Add WhatsApp and social media links for contact.
