@@ -21,16 +21,6 @@ Figma link <https://www.figma.com/design/S6wkej6BrqVL3hEHIsDwXW/muhammadrizkikur
 - About: Brief information
 - Contact: How to connect with me
 
-## Project structure
-
-- assets
-  - images
-- index.html
-- about.html
-- contact.html
-- style.css
-- README.md
-
 ## How to Run Project
 
 Use Live Server exstension in Visual Studio Code to run the project..
