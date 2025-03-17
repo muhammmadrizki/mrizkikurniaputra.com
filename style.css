@@ -69,6 +69,11 @@ nav ul li a {
   max-width: 500px;
 }
 
+.project-image{
+  border-radius: 20px;
+
+}
+
 /*
 Ini mulai halaman about
 */
