@@ -73,10 +73,18 @@ nav ul li a {
   border-radius: 20px;
 }
 
+.project-text {
+  font-size: 24px;
+}
+
 /*
 Ini mulai halaman about
 */
 
+.main-about {
+  margin: 0 auto;
+  max-width: 1000px;
+}
 .introduction h1 {
   text-align: center;
   text-transform: uppercase;
