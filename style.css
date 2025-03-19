@@ -69,9 +69,8 @@ nav ul li a {
   max-width: 500px;
 }
 
-.project-image{
+.project-image {
   border-radius: 20px;
-
 }
 
 /*
@@ -81,11 +80,6 @@ Ini mulai halaman about
 .introduction h1 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 50px;
-}
-
-.introduction p {
-  font-size: 32px;
 }
 
 /* form*/
